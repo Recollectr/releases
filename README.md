@@ -12,5 +12,5 @@
 <br />
 
 <p align="center">
- #### Visit https://recollectr.io to learn more
+ <h4> Visit https://recollectr.io to learn more </h4>
 </p>
