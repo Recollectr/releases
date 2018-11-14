@@ -11,4 +11,6 @@
 </p>
 <br />
 
+<p align="center">
  #### Visit https://recollectr.io to learn more
+</p>
