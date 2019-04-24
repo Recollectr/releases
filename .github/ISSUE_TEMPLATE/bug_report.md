@@ -1,0 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+This repository is not the fastest way to get help.
+
+Instead, please get in touch on Reddit at https://reddit.com/r/Recollectr, or by email at support@recollectr.io - These channels are checked and responded too more frequently.
