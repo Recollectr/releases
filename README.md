@@ -14,7 +14,7 @@
 </p>
 <br />
 
-<h4 align="center"> Visit https://recollectr.io to learn more </h4>
+<h4 align="center"> Visit <a href="https://recollectr.io">Recollectr.io</a> to learn more </h4>
 <h6 align="center"><a href="https://www.reddit.com/r/Recollectr/">Reddit</a></h6>
 <h6 align="center"><a href="https://www.producthunt.com/posts/recollectr">Visit us on Product Hunt</a></h6>
 <h6 align="center"><a href="https://www.facebook.com/Recollectr/">Facebook</a></h6>
